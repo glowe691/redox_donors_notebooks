@@ -8,3 +8,4 @@ dependencies:
   - plotly==5.13.1
   - jupyterlab==3.6.2
   - jupyterlab-git==0.41.0
+  - pyarrow==11.0.0
