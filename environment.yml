@@ -1,0 +1,10 @@
+name: review_plot_notebooks
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.10
+  - pandas==1.5.3
+  - plotly==5.13.1
+  - jupyterlab==3.6.2
+  - jupyterlab-git==0.41.0
