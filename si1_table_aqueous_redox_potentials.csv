@@ -1,0 +1,18 @@
+,compound_id,name,formula,type,label,compound_family,redox_potential_V,reference_electrode,electrolyte,solvent,pH,measurement_ref
+0,1,triethylamine,(C2H5)3N,electron donor,sacrificial donor,amine,0.69,SCE,,water,,https://doi.org/10.1016/j.crci.2015.11.026
+1,2,triethanolamine,(HOCH2CH2)3N,electron donor,sacrificial donor,amine,1.312,SCE,pH7 phosphate buffer,water,7.0,https://doi.org/10.1039/c3cp55023k
+2,9,ethylenediaminetetraacetic acid (EDTA),(HO2CCH2)2NCH2CH2N(CH2CO2H)2,electron donor,sacrificial donor,amine,1.412,SCE,pH7 phosphate buffer,water,7.0,https://doi.org/10.1039/c3cp55023k
+3,10,dihydronicotinamide adenine dinucleotide (NADH),C21H29N7O14P2,electron donor,recyclable donor,R-NADH,0.902,SCE,,water,7.0,https://doi.org/10.1016/0302-4598(74)85011-7
+9,15,(ferrocenylmethyl)trimethylammonium chloride (FcNCl),C14H20ClFeN,electron donor,RFB redox couple,ferrocene,0.852,SCE,NaCl,water,7.0,DOI:10.1021/jacs.6b10984
+10,16,"N1-ferrocenylmethyl-N1,N1,N2,N2,N2-pentamethylpropane-1,2-diaminium dibromide (FcN2Br2)",C19H32Br2FeN2,electron donor,RFB redox couple,ferrocene,0.852,SCE,NaCl,water,7.0,DOI:10.1021/jacs.6b10984
+12,18, (dimethylaminomethyl)ferrocene (FcN),C13H17FeN,electron donor,RFB redox couple,ferrocene,0.642,SCE,NaCl,water,7.0,DOI:10.1021/jacs.6b10984
+15,22," 2,7-anthraquinonedisulfonic acid (AQDS)",C14H8O8S2,electron donor,hydrogen carrier,hydroquinone,0.45599999999999996,SCE,,water,0.0,DOI:10.1002/aenm.202002453
+16,23,"potassium 2,5-hydroxybenzenesulfonate (potassium hydroquinone sulfonate)",C6H5KO5S,electron donor,hydrogen carrier,hydroquinone,0.892,SCE,,water,0.7,DOI:10.1002/aenm.202002453
+17,24,methylviologen dichloride (MVCl2),C12H14N2.2Cl,electron acceptor,RFB redox couple,viologen,-0.585,SCE,NaCl,water,,http://dx.doi.org/10.1002/anie.201606472
+18,25,"N,N’-dicarbamido-4,4’-bipyridinium dichloride",C14H16N4O2.2Cl,electron acceptor,RFB redox couple,viologen,-0.41500000000000004,SCE,NaCl,water,,http://dx.doi.org/10.1002/anie.201606472
+19,26,"N,N’-bis(carboxyethyl)-4,4’-bipyridinium dichloride",C16H18N2O4.2Cl,electron acceptor,RFB redox couple,viologen,-0.48500000000000004,SCE,NaCl,water,,http://dx.doi.org/10.1002/anie.201606472
+20,27,"N,N,N,2,2,6,6-heptamethylpiperidinyloxy-4-ammonium chloride (TEMPTMA)",C12H25N2O.Cl,electron donor,RFB redox couple,TEMPO,0.8350000000000001,SCE,NaCl,water,,http://dx.doi.org/10.1002/anie.201606472
+21,28,TEMPOL,C9H18NO2,electron donor,RFB redox couple,TEMPO,0.685,SCE,NaCl,water,,http://dx.doi.org/10.1002/anie.201606472
+28,34," 2,3-Dichloro-5,6-dicyano-1,4-benzoquinone (DDQ)",C8Cl2N2O2,electron donor,hydrogen carrier,hydroquinone,1.1680000000000001,SCE,p-TsOH,water,,DOI: 10.1021/jacs.6b05797
+63,51,"1-Benzyl-1,4-dihydronicotinamide (BNAH)",C13H14N2O,electron donor,recyclable donor,R-NADH,1.317,SCE,unspecified buffer,aqueous,7.0,DOI: 10.1016/0302-4598(74)85011-7
+71,57,1-methyl-4-benzoylpyridinium,C13H12NO,electron acceptor,RFB redox couple,pyridinium,-0.8049999999999999,SCE,NaCl,aqueous,7.0,DOI: 10.1021/acs.jpcc.7b06247
