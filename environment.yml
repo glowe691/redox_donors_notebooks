@@ -9,6 +9,7 @@ dependencies:
   - jupyterlab==3.6.2
   - jupyterlab-git==0.41.0
   - pyarrow==11.0.0
+  - python-kaleido
   - pip
   - pip:
     - duckdb
